@@ -1,0 +1,74 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "name": "말차 햄프 하이드레이팅 클렌저 / Matcha Hemp Hydrating Cleanser (120ml)",
+      "price": "16,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "core",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/201812/dd3f042af9b6253a452d92524aceac01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "비트 더 선 SPF 50+ PA++++ / Beet The Sun SPF 50+ PA++++ (50ml)",
+      "price": "20,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "core",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/201812/3ebba2a08c88ae40a7896d958d735c9f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "오트 쏘 심플 워터 크림 / Oat So Simple Water Cream (80ml)",
+      "price": "28,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "core",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/201910/7af523a9f1031c2f56bfc954d2fcc657.jpg"
+    },
+    {
+      "id": 4,
+      "name": "케일라루야 / Kale-lalu-yAHA (200ml)",
+      "price": "25,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "supplement",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/201812/7064742a6a9e10fd42fbf2a81eee52a5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "그레이트 배리어 릴리프 / Great Barrier Relief (45ml)",
+      "price": "28,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "supplement",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/201902/1d26f0643ed54d76caf456968ebaab27.jpg"
+    },
+    {
+      "id": 6,
+      "name": "크레이브뷰티 에코 파우치",
+      "price": "5,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "goods",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/20191210/c01b4f9a1d9a415335a29bd4e7eab29a.jpg"
+    },
+    {
+      "id": 7,
+      "name": "크레이브뷰티 일러스트 키링",
+      "price": "5,000원",
+      "local": "국내배송",
+      "shippingFee": "2,500원",
+      "shipping": "택배",
+      "category": "goods",
+      "img": "https://kravebeauty.co.kr/web/product/tiny/20191210/db9946946c673f2a45b32f37e2e83c6d.jpg"
+    }
+  ]
+}
